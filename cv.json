@@ -377,7 +377,7 @@
       ]
     },
     {
-      "client": "Kredo",
+      "client": "",
       "clientDescription": "",
       "project": "Platform development",
       "projectDescription": "Microservices development for internal calculations",

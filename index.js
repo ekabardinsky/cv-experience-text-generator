@@ -45,7 +45,7 @@ console.log('------------------------------------ <Stack> ----------------------
 take(technologiesExperience, 20).forEach(printStack)
 console.log('------------------------------------ </Stack> ---------------------------------------')
 console.log('------------------------------------ <Responsibilities> ---------------------------------------')
-take(responsibilities, 20).forEach(printResponsibility)
+take(responsibilities, 10).forEach(printResponsibility)
 console.log('------------------------------------ </Responsibilities> ---------------------------------------')
 
 function getStack(experience) {
