@@ -1,0 +1,27 @@
+{
+  "name": "cv-experience-text-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "moment": "^2.26.0",
+    "lodash": "^4.17.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ekabardinsky:anarchyfuck123@github.com/ekabardinsky/cv-experience-text-generator.git"
+  },
+  "keywords": [
+    "cv",
+    "generate"
+  ],
+  "author": "Evgeny Kabardinsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekabardinsky/cv-experience-text-generator/issues"
+  },
+  "homepage": "https://github.com/ekabardinsky/cv-experience-text-generator#readme"
+}

@@ -1,0 +1,722 @@
+{
+  "otherExperience": [
+    {
+      "name": "TSU",
+      "startAt": "2015-09-01",
+      "endAt": "2016-06-01",
+      "stack": [
+        "C#",
+        "Win forms",
+        "WPF",
+        "Entity Framework"
+      ]
+    },
+    {
+      "name": "Home projects",
+      "startAt": "2019-04-01",
+      "endAt": "2020-04-01",
+      "stack": [
+        "Node.js",
+        "Express",
+        "React",
+        "Redux",
+        "Material-ui"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "client": "Russian Standard Insurance",
+      "clientDescription": "Russian Standard Insurance is the leading provider of voluntary life insurance for loan borrowers. The company also provides other services that compensate for the effects of adverse life circumstances",
+      "project": "Insurance back office integration",
+      "projectDescription": "Implementation of background loan data synchronization job and implementation of Web Services for access loans data. Migration whole solution from Mule ESB to Jboss Fuse. CI/CD pipelines development",
+      "position": "Junior software engineer",
+      "startAt": "2014-04-01",
+      "endAt": "2015-02-01",
+      "responsibilities": [
+        "Data synchronization",
+        "API development",
+        "Data migration",
+        "CI/CD implementation"
+      ],
+      "teamSize": 3,
+      "environment": [
+        "Anypoint Studio",
+        "Intellij Idea",
+        "SoapUI",
+        "Jenkins"
+      ],
+      "stack": [
+        "MuleSoft ESB",
+        "Jboss Fuse",
+        "Apache Camel",
+        "Java"
+      ]
+    },
+    {
+      "client": "Center of Financial Technologies",
+      "clientDescription": "Center of Financial Technologies (CFT) is a group of innovative companies that develop high-technology solutions for the finance sector and other industries in Russia and the CIS countries",
+      "project": "Payment gateway",
+      "projectDescription": "Implementation of a payment gateway API and Desktop application to provide ability process single payment, through proprietary payment processing system",
+      "position": "Software engineer",
+      "startAt": "2015-02-01",
+      "endAt": "2015-05-01",
+      "responsibilities": [
+        "API development",
+        "System integration",
+        "Tests automation",
+        "Desktop app development"
+      ],
+      "teamSize": 3,
+      "environment": [
+        "Intellij Idea",
+        "Visual Studio"
+      ],
+      "stack": [
+        "Spring Boot",
+        "Java",
+        "Win forms",
+        "C#"
+      ]
+    },
+    {
+      "client": "Spitamen",
+      "clientDescription": "Spitamen Bank began its activities in 2008, as a micro credit deposit organization (MDO), Spitamen Capital. In a short time, the organization has earned a reputation as a reliable financial partner, and, thanks to well-coordinated team work and steady development, already in 2014 Spitamen Capital received an NBT banking license",
+      "project": "Spitamen core banking ESB",
+      "projectDescription": "Implementation of core banking ESB",
+      "position": "Junior software engineer",
+      "startAt": "2015-05-01",
+      "endAt": "2015-12-01",
+      "responsibilities": [
+        "API development"
+      ],
+      "teamSize": 20,
+      "environment": [
+        "Intellij Idea"
+      ],
+      "stack": [
+        "Jboss Fuse",
+        "Apache Camel",
+        "Apache CXF",
+        "Java"
+      ]
+    },
+    {
+      "client": "Normatel",
+      "clientDescription": "Normatel Home Center is the largest retailer of construction materials in Ceará, offering all the credibility and expertise of those in the market for over 40 years. The company is installed with 7 self-service stores and one concept store, totaling over 17,000 m² of sales area, all with large parking lots and strategic location in the main growth and consumption vectors of construction in Fortaleza and Juazeiro do Norte",
+      "project": "Purchase order API",
+      "projectDescription": "Implementation of purchase order API to provide interface for a BPM engine",
+      "position": "Software engineer",
+      "startAt": "2015-12-01",
+      "endAt": "2016-01-01",
+      "responsibilities": [
+        "API development"
+      ],
+      "teamSize": 1,
+      "environment": [
+        "Anypoint Studio"
+      ],
+      "stack": [
+        "MuleSoft ESB",
+        "SAP ERP BAPI"
+      ]
+    },
+    {
+      "client": "Central Bank of Russia",
+      "clientDescription": "The Central Bank of Russia (CBR) is the highest monetary authority in the Russian Federation. It sets and carries out Russian monetary policy, supervises the commercial banking system, and maintains the payments system",
+      "project": "Mortgage reporting business process automation",
+      "projectDescription": "Implementation of secured API to provide access and manipulate data within Jbpm processes",
+      "position": "Senior software engineer",
+      "startAt": "2016-01-01",
+      "endAt": "2016-04-01",
+      "responsibilities": [
+        "API development",
+        "CI/CD implementation",
+        "System integration"
+      ],
+      "teamSize": 20,
+      "environment": [
+        "Intellij Idea"
+      ],
+      "stack": [
+        "Jboss EAP",
+        "JPA",
+        "Java",
+        "EJB",
+        "Docker",
+        "Kerberos/SPNEGO",
+        "AD"
+      ]
+    },
+    {
+      "client": "Mobilise",
+      "clientDescription": "",
+      "project": "Mule consulting",
+      "projectDescription": "Consulting and supporting development of Mobilise API",
+      "position": "Senior software engineer",
+      "startAt": "2016-04-01",
+      "endAt": "2016-05-01",
+      "responsibilities": [
+        "Consulting",
+        "Refactoring",
+        "Bug fixing"
+      ],
+      "teamSize": 5,
+      "environment": [
+        "Anypoint Studio"
+      ],
+      "stack": [
+        "MuleSoft ESB"
+      ]
+    },
+    {
+      "client": "Russian Standard Insurance",
+      "clientDescription": "Russian Standard Insurance is the leading provider of voluntary life insurance for loan borrowers. The company also provides other services that compensate for the effects of adverse life circumstances",
+      "project": "1C HR integration project",
+      "projectDescription": "Implement API interface for communication BPM Engine with 1c accounting app",
+      "position": "Senior software engineer",
+      "startAt": "2016-05-01",
+      "endAt": "2016-06-01",
+      "responsibilities": [
+        "API development"
+      ],
+      "teamSize": 1,
+      "environment": [
+        "Intellij Idea"
+      ],
+      "stack": [
+        "Jboss Fuse",
+        "Apache Camel",
+        "Apache CXF",
+        "Java"
+      ]
+    },
+    {
+      "client": "Russian Standard Insurance",
+      "clientDescription": "Russian Standard Insurance is the leading provider of voluntary life insurance for loan borrowers. The company also provides other services that compensate for the effects of adverse life circumstances",
+      "project": "JasperSoft BI state procurement",
+      "projectDescription": "JasperSoft BI state procurement app",
+      "position": "Senior software engineer",
+      "startAt": "2016-06-01",
+      "endAt": "2016-07-01",
+      "responsibilities": [
+        "API development",
+        "Ad-hocs development",
+        "System integration"
+      ],
+      "teamSize": 5,
+      "environment": [
+        "Intellij Idea",
+        "JasperSoft BI"
+      ],
+      "stack": [
+        "Spring Boot",
+        "Java"
+      ]
+    },
+    {
+      "client": "",
+      "clientDescription": "",
+      "project": "OpenStack connector",
+      "projectDescription": "OpenStack mule and apache camel component development",
+      "position": "Senior software engineer",
+      "startAt": "2016-07-01",
+      "endAt": "2016-08-01",
+      "responsibilities": [
+        "Mule connector development",
+        "Apache camel component development"
+      ],
+      "teamSize": 1,
+      "environment": [
+        "Anypoint Studio",
+        "OpenStack"
+      ],
+      "stack": [
+        "MuleSoft ESB"
+      ]
+    },
+    {
+      "client": "",
+      "clientDescription": "",
+      "project": "POS API",
+      "projectDescription": "POS system Rest API development",
+      "position": "Senior software engineer",
+      "startAt": "2016-08-01",
+      "endAt": "2017-01-01",
+      "responsibilities": [
+        "API development",
+        "System integration",
+        "Consulting"
+      ],
+      "teamSize": 30,
+      "environment": [
+        "Anypoint Studio",
+        "Anypoint Platform"
+      ],
+      "stack": [
+        "MuleSoft ESB"
+      ]
+    },
+    {
+      "client": "",
+      "clientDescription": "",
+      "project": "Charity Commission",
+      "projectDescription": "Charity Commission API development for regulatory business processes support",
+      "position": "Senior software engineer",
+      "startAt": "2017-01-01",
+      "endAt": "2017-07-01",
+      "responsibilities": [
+        "API development",
+        "System integration"
+      ],
+      "teamSize": 50,
+      "environment": [
+        "Anypoint Studio"
+      ],
+      "stack": [
+        "MuleSoft ESB"
+      ]
+    },
+    {
+      "client": "",
+      "clientDescription": "",
+      "project": "Employer enrolment automation",
+      "projectDescription": "Set up accounts for new employer in SSO, Google, Internal system and other",
+      "position": "Senior software engineer",
+      "startAt": "2018-07-01",
+      "endAt": "2018-09-01",
+      "responsibilities": [
+        "API development",
+        "Process automation"
+      ],
+      "teamSize": 3,
+      "environment": [
+        "Intellij Idea"
+      ],
+      "stack": [
+        "Spring Boot 2",
+        "Java"
+      ]
+    },
+    {
+      "client": "Veritone",
+      "clientDescription": "Veritone’s proprietary Operating System for Artificial Intelligence, aiWARETM, surfaces insights from massive amounts of structured and unstructured data at scale, in near real-time",
+      "project": "Redaction app",
+      "projectDescription": "Redaction app provides ability to scan video and extract faces and then search that face in database",
+      "position": "Senior software engineer",
+      "startAt": "2017-04-01",
+      "endAt": "2018-11-01",
+      "responsibilities": [
+        "API development",
+        "Process automation",
+        "Mentor junior developers"
+      ],
+      "teamSize": 30,
+      "environment": [
+        "WebStorm",
+        "Veritone platform"
+      ],
+      "stack": [
+        "Node.js",
+        "GraphQl",
+        "React",
+        "Redux",
+        "Saga",
+        "Material-ui"
+      ]
+    },
+    {
+      "client": "The business environment",
+      "clientDescription": "The business environment is a joint project of the Ministry of Economic Development of the Russian Federation and Sberbank PJSC",
+      "project": "Platform development",
+      "projectDescription": "Microservices development for internal calculations",
+      "position": "Senior software engineer",
+      "startAt": "2016-10-01",
+      "endAt": "2017-02-01",
+      "responsibilities": [
+        "API development",
+        "System integration"
+      ],
+      "teamSize": 100,
+      "environment": [
+        "Intellij Idea"
+      ],
+      "stack": [
+        "Play 2",
+        "Java",
+        "My Batis",
+        "Docker"
+      ]
+    },
+    {
+      "client": "",
+      "clientDescription": "",
+      "project": "Legal entities data aggregation",
+      "projectDescription": "Aggregation of legal entities data from governments cites",
+      "position": "Senior software engineer",
+      "startAt": "2017-10-01",
+      "endAt": "2018-11-01",
+      "responsibilities": [
+        "API development",
+        "Scraping",
+        "UI development"
+      ],
+      "teamSize": 30,
+      "environment": [
+        "WebStorm",
+        "PhpStorm",
+        "Intellij Idea"
+      ],
+      "stack": [
+        "Node.js",
+        "Express",
+        "Java",
+        "EJB",
+        "Php",
+        "Phalcon"
+      ]
+    },
+    {
+      "client": "Kredo",
+      "clientDescription": "",
+      "project": "Platform development",
+      "projectDescription": "Microservices development for internal calculations",
+      "position": "Senior software engineer",
+      "startAt": "2017-10-01",
+      "endAt": "2018-01-01",
+      "responsibilities": [
+        "API development",
+        "System integration"
+      ],
+      "teamSize": 100,
+      "environment": [
+        "Intellij Idea"
+      ],
+      "stack": [
+        "Play 2",
+        "My Batis",
+        "Java",
+        "Docker"
+      ]
+    },
+    {
+      "client": "Zapsibkombank",
+      "clientDescription": "One of the largest banks in the Ural Federal District, located in Tyumen. Has the status of Principal Member in the international payment systems VISA and MasterCard",
+      "project": "Customer web app development",
+      "projectDescription": "Backend and Frontend development to provide GUI for bank cusomers",
+      "position": "Senior software engineer",
+      "startAt": "2018-11-01",
+      "endAt": "2019-09-01",
+      "responsibilities": [
+        "API development",
+        "System integration",
+        "Code migration"
+      ],
+      "teamSize": 20,
+      "environment": [
+        "Intellij Idea"
+      ],
+      "stack": [
+        "Spring Boot 2",
+        "Hibernate",
+        "Java"
+      ]
+    },
+    {
+      "client": "",
+      "clientDescription": "",
+      "project": "Stylists online appointment",
+      "projectDescription": "Platform development",
+      "position": "Senior software engineer",
+      "startAt": "2019-02-01",
+      "endAt": "2019-05-01",
+      "responsibilities": [
+        "API development",
+        "UI development"
+      ],
+      "teamSize": 5,
+      "environment": [
+        "WebStorm",
+        "AWS"
+      ],
+      "stack": [
+        "Node.js",
+        "Express",
+        "Angular 7"
+      ]
+    },
+    {
+      "client": "Uncoil",
+      "clientDescription": "Uncoil connects your Advertising and eCommerce Platforms together. Using sophisticated real time AI it turns raw data into actionable insights designed to grow your profits",
+      "project": "Uncoil",
+      "projectDescription": "Platform development",
+      "position": "Senior software engineer",
+      "startAt": "2019-02-01",
+      "endAt": "2020-04-28",
+      "responsibilities": [
+        "API development",
+        "ETL development",
+        "Consulting",
+        "Optimization",
+        "Research"
+      ],
+      "teamSize": 20,
+      "environment": [
+        "Intellij Idea",
+        "WebStorm",
+        "GCP",
+        "Dataproc"
+      ],
+      "stack": [
+        "Node.js",
+        "Express",
+        "Scala",
+        "Apache Spark",
+        "Big Query"
+      ]
+    },
+    {
+      "client": "",
+      "clientDescription": "",
+      "project": "Healthcare online appointment platform",
+      "projectDescription": "Platform development",
+      "position": "Senior software engineer",
+      "startAt": "2019-10-01",
+      "endAt": "2020-02-01",
+      "responsibilities": [
+        "API development"
+      ],
+      "teamSize": 10,
+      "environment": [
+        "Intellij Idea"
+      ],
+      "stack": [
+        "Ktor",
+        "Arrow",
+        "Kotlin"
+      ]
+    },
+    {
+      "client": "",
+      "clientDescription": "",
+      "project": "Online task manager",
+      "projectDescription": "Support and development of online task manager",
+      "position": "Senior software engineer",
+      "startAt": "2016-06-01",
+      "endAt": "2017-04-01",
+      "responsibilities": [
+        "API development",
+        "System integration"
+      ],
+      "teamSize": 5,
+      "environment": [
+        "Intellij Idea"
+      ],
+      "stack": [
+        "Play 1.2",
+        "Hibernate",
+        "Java"
+      ]
+    },
+    {
+      "client": "",
+      "clientDescription": "",
+      "project": "Quality control service",
+      "projectDescription": "Service for add issues to document and check if that issue was found by manager",
+      "position": "Senior software engineer",
+      "startAt": "2019-11-01",
+      "endAt": "2020-01-01",
+      "responsibilities": [
+        "API development"
+      ],
+      "teamSize": 2,
+      "environment": [
+        "Intellij Idea"
+      ],
+      "stack": [
+        "Spring Boot 2",
+        "Hibernate",
+        "Java"
+      ]
+    },
+    {
+      "client": "",
+      "clientDescription": "",
+      "project": "Healthcare online appointment desktop app",
+      "projectDescription": "Application development",
+      "position": "Senior software engineer",
+      "startAt": "2019-10-01",
+      "endAt": "2020-01-01",
+      "responsibilities": [
+        "API development"
+      ],
+      "teamSize": 2,
+      "environment": [
+        "Intellij Idea"
+      ],
+      "stack": [
+        "Java",
+        "Swing"
+      ]
+    },
+    {
+      "client": "",
+      "clientDescription": "",
+      "project": "Pet shop",
+      "projectDescription": "Implementation of integration shopify with third parties systems",
+      "position": "Senior software engineer",
+      "startAt": "2018-03-01",
+      "endAt": "2018-06-01",
+      "responsibilities": [
+        "API development"
+      ],
+      "teamSize": 2,
+      "environment": [
+        "WebStorm",
+        "Shopify"
+      ],
+      "stack": [
+        "Node.js",
+        "Express"
+      ]
+    },
+    {
+      "client": "Nexa",
+      "clientDescription": "Nexa is a digital marketing agency providing web & mobile website design & development",
+      "project": "Donor API",
+      "projectDescription": "Donor management API implementation for non commercial organization",
+      "position": "Senior software engineer",
+      "startAt": "2019-10-01",
+      "endAt": "2019-12-01",
+      "responsibilities": [
+        "Design Architecture",
+        "API design",
+        "API development"
+      ],
+      "teamSize": 2,
+      "environment": [
+        "Anypoint Studio"
+      ],
+      "stack": [
+        "MuleSoft ESB"
+      ]
+    },
+    {
+      "client": "The Russia FSS regulatory",
+      "clientDescription": "",
+      "project": "FSS tax reports processing app",
+      "projectDescription": "FSS tax reports processing app development for regulatory business processes support",
+      "position": "Senior software engineer",
+      "startAt": "2019-08-01",
+      "endAt": "2019-12-01",
+      "responsibilities": [
+        "Full stack app development"
+      ],
+      "teamSize": 1,
+      "environment": [
+        "Intellij Idea"
+      ],
+      "stack": [
+        "Spring Boot",
+        "Java",
+        "Ext.js"
+      ]
+    },
+    {
+      "client": "Bank Al Etihad",
+      "clientDescription": "Provides various banking products and services to individuals, SMEs, and corporate and institutional customers in Jordan. It operates through Consumer banking, Small and Medium Enterprises, Corporate Banking, and Treasury segments. The company accepts various deposits, such as current, salary, and savings accounts. Its loan products include supply chain, sector-specific, trade, fixed assets and expansion, and working capital finance; green lending and syndicated loans; and pharmacy, startup, and collateral free loans. The company also offers credit and prepaid cards; insurance products; and money market, trading, treasury, cash management, inventory management, risk management, and online banking services. The company provides its services through its main branch in Amman and through its 44 branches in Jordan. Bank al Etihad was founded in 1978 and is headquartered in Amman, Jordan",
+      "project": "Bank Al Etihad core banking ESB",
+      "projectDescription": "Implementation of API for core banking system and implementation of data synchronization between various systems (such as FlexCube, Appian, Zain and other)",
+      "position": "Senior software engineer",
+      "startAt": "2016-07-01",
+      "endAt": "2020-06-01",
+      "responsibilities": [
+        "Design Architecture",
+        "CI/CD implementation",
+        "API design",
+        "API development",
+        "Data synchronization",
+        "Mentor junior developers"
+      ],
+      "teamSize": 5,
+      "environment": [
+        "Anypoint Studio"
+      ],
+      "stack": [
+        "MuleSoft ESB"
+      ]
+    },
+    {
+      "client": "Adidas",
+      "clientDescription": "Adidas AG is a multinational corporation, founded and headquartered in Herzogenaurach, Germany, that designs and manufactures shoes, clothing and accessories",
+      "project": "Collibra DGC integration",
+      "projectDescription": "Integration of metadata synchronization from LeanIX, Swagger Hub to Collibra DGC",
+      "position": "Senior software engineer",
+      "startAt": "2019-10-01",
+      "endAt": "2019-12-01",
+      "responsibilities": [
+        "API development",
+        "Data synchronization"
+      ],
+      "teamSize": 5,
+      "environment": [
+        "Anypoint Studio"
+      ],
+      "stack": [
+        "MuleSoft ESB"
+      ]
+    },
+    {
+      "client": "Deutsche Bahn",
+      "clientDescription": "Deutsche Bahn AG is a German railway company. Headquartered in Berlin, it is a private joint-stock company (AG), with the Federal Republic of Germany being its single shareholder",
+      "project": "Collibra DGC integration",
+      "projectDescription": "Integration of metadata synchronization from Apache Hadoop to Collibra DGC",
+      "position": "Senior software engineer",
+      "startAt": "2020-02-01",
+      "endAt": "2020-04-01",
+      "responsibilities": [
+        "API implementation",
+        "Data synchronization"
+      ],
+      "teamSize": 5,
+      "environment": [
+        "Anypoint Studio"
+      ],
+      "stack": [
+        "MuleSoft ESB"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "Name": "Oracle Certified Associate, Java SE 8 Programmer",
+      "Vendor": "Oracle",
+      "Link": "https://www.youracclaim.com/badges/b2603016-cb4f-4fd1-b63f-2d58783b39a3"
+    },
+    {
+      "Name": "Mulesoft Certified Integration Architect",
+      "Vendor": "Mulesoft",
+      "Link": "https://training.mulesoft.com/award/certification/b8be433e-e4e4-3f6e-aa36-51f8d819c915"
+    },
+    {
+      "Name": "Mulesoft Certified Developer - Level 1 (Mule 4)",
+      "Vendor": "Mulesoft",
+      "Link": "https://training.mulesoft.com/award/certification/35c6fb3c-16d0-3aaf-96b3-afef1344162d"
+    },
+    {
+      "Name": "Mulesoft Certified Developer - Integration and API Associate (Mule 3.8)",
+      "Vendor": "Mulesoft",
+      "Link": "http://training.mulesoft.com/award/certification/ea5d7c1b-36b3-3a61-9f85-5ea4bbed4b82/view"
+    },
+    {
+      "Name": "Mulesoft Certified Developer - API Design Associate (Mule 3.8)",
+      "Vendor": "Mulesoft",
+      "Link": "https://training.mulesoft.com/award/certification/bfb36051-ab48-3185-ac62-ee38ccb6cb47/view"
+    },
+    {
+      "Name": "Mulesoft Certified Developer - Connector Specialist (Mule 3.8)",
+      "Vendor": "Mulesoft",
+      "Link": "http://training.mulesoft.com/award/certification/60d8cc49-4442-3426-9a9c-0756e18d4bf4/view"
+    }
+  ]
+}
