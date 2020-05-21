@@ -39,10 +39,10 @@ const responsibilities = [...new Set(getResponsibilities(projects))]
     .sort((a, b) => b.durationSec - a.durationSec);
 
 console.log('------------------------------------ <Projects> ---------------------------------------')
-projects.forEach(printProject)
+take(projects, 20).forEach(printProject)
 console.log('------------------------------------ </Projects> ---------------------------------------')
 console.log('------------------------------------ <Stack> ---------------------------------------')
-take(technologiesExperience, 20).forEach(printStack)
+printStack(technologiesExperience)
 console.log('------------------------------------ </Stack> ---------------------------------------')
 console.log('------------------------------------ <Responsibilities> ---------------------------------------')
 take(responsibilities, 10).forEach(printResponsibility)
@@ -85,12 +85,35 @@ Environment: ${experience.environment.join(", ")}
     console.log(template);
 }
 
-function printStack(technology) {
-    const template = `${technology.name}\t${technology.duration}`;
-    console.log(template);
+function printStack(technologiesExperience) {
+    const stackItems = take(technologiesExperience, 20)
+    stackItems.map(item => item.name).forEach(item => console.log(item));
+    stackItems.map(item => item.duration).forEach(item => console.log(item));
 }
 
 function printResponsibility(responsibility) {
-    const template = `${responsibility.name}\t${responsibility.duration}`;
+    const template = `${responsibility.name}`;
     console.log(template);
+}
+
+function getPeriod(seconds) {
+    const duration = moment.duration(seconds, 'seconds');
+    const years = duration.years();
+    const months = duration.months();
+
+    let yearsText = '';
+    if (years > 1) {
+        yearsText = `${years} years`;
+    } else if (years === 1) {
+        yearsText = `${years} year`
+    }
+
+    let monthsText = '';
+    if (months > 1) {
+        monthsText = `${months} months`;
+    } else if (years === 1) {
+        monthsText = `${months} month`
+    }
+
+    return `${yearsText} ${monthsText}`
 }

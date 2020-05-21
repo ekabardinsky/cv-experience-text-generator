@@ -13,14 +13,15 @@
     },
     {
       "name": "Home projects",
-      "startAt": "2019-04-01",
+      "startAt": "2019-10-01",
       "endAt": "2020-04-01",
       "stack": [
         "Node.js",
         "Express",
         "React",
         "Redux",
-        "Material-ui"
+        "Material-ui",
+        "Docker"
       ]
     }
   ],
@@ -50,7 +51,8 @@
         "MuleSoft ESB",
         "Jboss Fuse",
         "Apache Camel",
-        "Java"
+        "Java",
+        "Docker"
       ]
     },
     {
@@ -74,6 +76,7 @@
       ],
       "stack": [
         "Spring Boot",
+        "Hibernate",
         "Java",
         "Win forms",
         "C#"
@@ -178,7 +181,8 @@
       "startAt": "2016-05-01",
       "endAt": "2016-06-01",
       "responsibilities": [
-        "API development"
+        "API development",
+        "Docker"
       ],
       "teamSize": 1,
       "environment": [
@@ -211,6 +215,7 @@
       ],
       "stack": [
         "Spring Boot",
+        "Hibernate",
         "Java"
       ]
     },
@@ -294,8 +299,10 @@
         "Intellij Idea"
       ],
       "stack": [
-        "Spring Boot 2",
-        "Java"
+        "Spring Boot",
+        "Hibernate",
+        "Java",
+        "Docker"
       ]
     },
     {
@@ -318,7 +325,6 @@
       ],
       "stack": [
         "Node.js",
-        "GraphQl",
         "React",
         "Redux",
         "Saga",
@@ -344,8 +350,7 @@
       "stack": [
         "Play 2",
         "Java",
-        "My Batis",
-        "Docker"
+        "My Batis"
       ]
     },
     {
@@ -364,22 +369,20 @@
       "teamSize": 30,
       "environment": [
         "WebStorm",
-        "PhpStorm",
         "Intellij Idea"
       ],
       "stack": [
         "Node.js",
         "Express",
         "Java",
-        "EJB",
-        "Php",
-        "Phalcon"
+        "Hibernate",
+        "EJB"
       ]
     },
     {
       "client": "",
       "clientDescription": "",
-      "project": "Platform development",
+      "project": "MicroCredit Platform development",
       "projectDescription": "Microservices development for internal calculations",
       "position": "Senior software engineer",
       "startAt": "2017-10-01",
@@ -395,15 +398,14 @@
       "stack": [
         "Play 2",
         "My Batis",
-        "Java",
-        "Docker"
+        "Java"
       ]
     },
     {
       "client": "Zapsibkombank",
       "clientDescription": "One of the largest banks in the Ural Federal District, located in Tyumen. Has the status of Principal Member in the international payment systems VISA and MasterCard",
       "project": "Customer web app development",
-      "projectDescription": "Backend and Frontend development to provide GUI for bank cusomers",
+      "projectDescription": "Backend and Frontend development to provide GUI for bank customers",
       "position": "Senior software engineer",
       "startAt": "2018-11-01",
       "endAt": "2019-09-01",
@@ -417,9 +419,10 @@
         "Intellij Idea"
       ],
       "stack": [
-        "Spring Boot 2",
+        "Spring Boot",
         "Hibernate",
-        "Java"
+        "Java",
+        "Docker"
       ]
     },
     {
@@ -472,7 +475,8 @@
         "Express",
         "Scala",
         "Apache Spark",
-        "Big Query"
+        "Big Query",
+        "K8s"
       ]
     },
     {
@@ -493,7 +497,8 @@
       "stack": [
         "Ktor",
         "Arrow",
-        "Kotlin"
+        "Kotlin",
+        "Docker"
       ]
     },
     {
@@ -534,9 +539,10 @@
         "Intellij Idea"
       ],
       "stack": [
-        "Spring Boot 2",
+        "Spring Boot",
         "Hibernate",
-        "Java"
+        "Java",
+        "Docker"
       ]
     },
     {
