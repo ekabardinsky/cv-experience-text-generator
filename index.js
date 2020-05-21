@@ -1,4 +1,5 @@
 const moment = require('moment');
+const adapters = require('./adapters');
 const {flatten, sumBy, take} = require('lodash');
 
 let config = require('./cv.json');
@@ -48,6 +49,11 @@ console.log('------------------------------------ <Responsibilities> -----------
 take(responsibilities, 10).forEach(printResponsibility)
 console.log('------------------------------------ </Responsibilities> ---------------------------------------')
 
+console.log('------------------------------------ <PushDataToExternalSystems> ---------------------------------------')
+adapters(config, projects, technologiesExperience, responsibilities);
+console.log('------------------------------------ </PushDataToExternalSystems> ---------------------------------------')
+
+
 function getStack(experience) {
     return flatten(experience.map(project => project.stack));
 }
@@ -59,7 +65,7 @@ function getResponsibilities(experience) {
 function mapExperience(experience) {
     const {startAt, endAt} = experience;
     const startTs = moment(startAt).unix();
-    const endTs = moment(endAt).unix();
+    const endTs = endAt != null ? moment(endAt).unix() : moment().unix();
     const duration = endTs - startTs;
     return {
         ...experience,

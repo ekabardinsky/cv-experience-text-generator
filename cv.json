@@ -635,7 +635,7 @@
       "projectDescription": "Implementation of API for core banking system and implementation of data synchronization between various systems (such as FlexCube, Appian, Zain and other)",
       "position": "Senior software engineer",
       "startAt": "2016-07-01",
-      "endAt": "2020-06-01",
+      "endAt": null,
       "responsibilities": [
         "Design Architecture",
         "CI/CD implementation",
@@ -695,34 +695,40 @@
   ],
   "certifications": [
     {
-      "Name": "Oracle Certified Associate, Java SE 8 Programmer",
-      "Vendor": "Oracle",
-      "Link": "https://www.youracclaim.com/badges/b2603016-cb4f-4fd1-b63f-2d58783b39a3"
+      "name": "Oracle Certified Associate, Java SE 8 Programmer",
+      "vendor": "Oracle",
+      "link": "https://www.youracclaim.com/badges/b2603016-cb4f-4fd1-b63f-2d58783b39a3",
+      "issueDate": "2016-02-01"
     },
     {
-      "Name": "Mulesoft Certified Integration Architect",
-      "Vendor": "Mulesoft",
-      "Link": "https://training.mulesoft.com/award/certification/b8be433e-e4e4-3f6e-aa36-51f8d819c915"
+      "name": "Mulesoft Certified Integration Architect",
+      "vendor": "Mulesoft",
+      "link": "https://training.mulesoft.com/award/certification/b8be433e-e4e4-3f6e-aa36-51f8d819c915",
+      "issueDate": "2019-10-01"
     },
     {
-      "Name": "Mulesoft Certified Developer - Level 1 (Mule 4)",
-      "Vendor": "Mulesoft",
-      "Link": "https://training.mulesoft.com/award/certification/35c6fb3c-16d0-3aaf-96b3-afef1344162d"
+      "name": "Mulesoft Certified Developer - Level 1 (Mule 4)",
+      "vendor": "Mulesoft",
+      "link": "https://training.mulesoft.com/award/certification/35c6fb3c-16d0-3aaf-96b3-afef1344162d",
+      "issueDate": "2019-10-01"
     },
     {
-      "Name": "Mulesoft Certified Developer - Integration and API Associate (Mule 3.8)",
-      "Vendor": "Mulesoft",
-      "Link": "http://training.mulesoft.com/award/certification/ea5d7c1b-36b3-3a61-9f85-5ea4bbed4b82/view"
+      "name": "Mulesoft Certified Developer - Integration and API Associate (Mule 3.8)",
+      "vendor": "Mulesoft",
+      "link": "http://training.mulesoft.com/award/certification/ea5d7c1b-36b3-3a61-9f85-5ea4bbed4b82/view",
+      "issueDate": "2018-06-01"
     },
     {
-      "Name": "Mulesoft Certified Developer - API Design Associate (Mule 3.8)",
-      "Vendor": "Mulesoft",
-      "Link": "https://training.mulesoft.com/award/certification/bfb36051-ab48-3185-ac62-ee38ccb6cb47/view"
+      "name": "Mulesoft Certified Developer - API Design Associate (Mule 3.8)",
+      "vendor": "Mulesoft",
+      "link": "https://training.mulesoft.com/award/certification/bfb36051-ab48-3185-ac62-ee38ccb6cb47/view",
+      "issueDate": "2018-06-01"
     },
     {
-      "Name": "Mulesoft Certified Developer - Connector Specialist (Mule 3.8)",
-      "Vendor": "Mulesoft",
-      "Link": "http://training.mulesoft.com/award/certification/60d8cc49-4442-3426-9a9c-0756e18d4bf4/view"
+      "name": "Mulesoft Certified Developer - Connector Specialist (Mule 3.8)",
+      "vendor": "Mulesoft",
+      "link": "http://training.mulesoft.com/award/certification/60d8cc49-4442-3426-9a9c-0756e18d4bf4/view",
+      "issueDate": "2018-06-01"
     }
   ]
 }
