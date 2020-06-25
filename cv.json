@@ -105,33 +105,13 @@
       ]
     },
     {
-      "client": "Normatel",
-      "clientDescription": "Normatel Home Center is the largest retailer of construction materials in Ceará, offering all the credibility and expertise of those in the market for over 40 years. The company is installed with 7 self-service stores and one concept store, totaling over 17,000 m² of sales area, all with large parking lots and strategic location in the main growth and consumption vectors of construction in Fortaleza and Juazeiro do Norte",
-      "project": "Purchase order API",
-      "projectDescription": "Implementation of purchase order API to provide interface for a BPM engine",
-      "position": "Software engineer",
-      "startAt": "2015-12-01",
-      "endAt": "2016-01-01",
-      "responsibilities": [
-        "API development"
-      ],
-      "teamSize": 1,
-      "environment": [
-        "Anypoint Studio"
-      ],
-      "stack": [
-        "MuleSoft ESB",
-        "SAP ERP BAPI"
-      ]
-    },
-    {
       "client": "Central Bank of Russia",
       "clientDescription": "The Central Bank of Russia (CBR) is the highest monetary authority in the Russian Federation. It sets and carries out Russian monetary policy, supervises the commercial banking system, and maintains the payments system",
       "project": "Mortgage reporting business process automation",
       "projectDescription": "Implementation of secured API to provide access and manipulate data within Jbpm processes",
       "position": "Senior software engineer",
-      "startAt": "2016-01-01",
-      "endAt": "2016-04-01",
+      "startAt": "2015-12-01",
+      "endAt": "2016-05-01",
       "responsibilities": [
         "API development",
         "CI/CD implementation",
@@ -152,68 +132,28 @@
       ]
     },
     {
-      "client": "Mobilise",
-      "clientDescription": "",
-      "project": "Mule consulting",
-      "projectDescription": "Consulting and supporting development of Mobilise API",
-      "position": "Senior software engineer",
-      "startAt": "2016-04-01",
-      "endAt": "2016-05-01",
-      "responsibilities": [
-        "Consulting",
-        "Refactoring",
-        "Bug fixing"
-      ],
-      "teamSize": 5,
-      "environment": [
-        "Anypoint Studio"
-      ],
-      "stack": [
-        "MuleSoft ESB"
-      ]
-    },
-    {
       "client": "Russian Standard Insurance",
       "clientDescription": "Russian Standard Insurance is the leading provider of voluntary life insurance for loan borrowers. The company also provides other services that compensate for the effects of adverse life circumstances",
       "project": "1C HR integration project",
       "projectDescription": "Implementation of API interface for integration JBPM Engine with 1c accounting app",
       "position": "Senior software engineer",
       "startAt": "2016-05-01",
-      "endAt": "2016-06-01",
-      "responsibilities": [
-        "API development",
-        "Docker"
-      ],
-      "teamSize": 1,
-      "environment": [
-        "Intellij Idea"
-      ],
-      "stack": [
-        "Jboss Fuse",
-        "Apache Camel",
-        "Apache CXF",
-        "Java"
-      ]
-    },
-    {
-      "client": "Russian Standard Insurance",
-      "clientDescription": "Russian Standard Insurance is the leading provider of voluntary life insurance for loan borrowers. The company also provides other services that compensate for the effects of adverse life circumstances",
-      "project": "JasperSoft BI state procurement",
-      "projectDescription": "Implementation of ad-hock reports for JasperSoft BI state procurement app",
-      "position": "Senior software engineer",
-      "startAt": "2016-06-01",
       "endAt": "2016-07-01",
       "responsibilities": [
         "API development",
+        "Docker",
         "Ad-hocs development",
         "System integration"
       ],
-      "teamSize": 5,
+      "teamSize": 1,
       "environment": [
         "Intellij Idea",
         "JasperSoft BI"
       ],
       "stack": [
+        "Jboss Fuse",
+        "Apache Camel",
+        "Apache CXF",
         "Spring Boot",
         "Hibernate",
         "Java"
