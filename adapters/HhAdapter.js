@@ -65,7 +65,7 @@ class HhAdapter {
 Технологии: ${project.stack.concat(project.environment).join(", ")}
 `;
                 return {
-                    companyName: project.client || "Индивидуальное предпринимательство",
+                    companyName: "Индивидуальное предпринимательство",
                     description,
                     position: project.position,
                     startDate: project.startAt,
