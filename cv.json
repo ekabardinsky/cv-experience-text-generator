@@ -27,8 +27,8 @@
   ],
   "experience": [
     {
-      "client": "Russian Standard Insurance",
-      "clientDescription": "Russian Standard Insurance is the leading provider of voluntary life insurance for loan borrowers. The company also provides other services that compensate for the effects of adverse life circumstances",
+      "client": "",
+      "clientDescription": "",
       "project": "Insurance back office integration",
       "projectDescription": "Implementation of background loan data synchronization job and implementation of Web Services for access loans data. Migration whole solution from Mule ESB to Jboss Fuse. CI/CD pipelines development",
       "position": "Junior software engineer",
@@ -56,8 +56,8 @@
       ]
     },
     {
-      "client": "Center of Financial Technologies",
-      "clientDescription": "Center of Financial Technologies (CFT) is a group of innovative companies that develop high-technology solutions for the finance sector and other industries in Russia and the CIS countries",
+      "client": "",
+      "clientDescription": "",
       "project": "Payment gateway",
       "projectDescription": "Implementation of a payment gateway API and Desktop application to provide ability process single payment, through proprietary payment processing system",
       "position": "Software engineer",
@@ -83,9 +83,9 @@
       ]
     },
     {
-      "client": "Spitamen",
-      "clientDescription": "Spitamen Bank began its activities in 2008, as a micro credit deposit organization (MDO), Spitamen Capital. In a short time, the organization has earned a reputation as a reliable financial partner, and, thanks to well-coordinated team work and steady development, already in 2014 Spitamen Capital received an NBT banking license",
-      "project": "Spitamen core banking ESB",
+      "client": "",
+      "clientDescription": "",
+      "project": "Сore banking ESB",
       "projectDescription": "Implementation of core banking ESB",
       "position": "Junior software engineer",
       "startAt": "2015-05-01",
@@ -105,8 +105,8 @@
       ]
     },
     {
-      "client": "Central Bank of Russia",
-      "clientDescription": "The Central Bank of Russia (CBR) is the highest monetary authority in the Russian Federation. It sets and carries out Russian monetary policy, supervises the commercial banking system, and maintains the payments system",
+      "client": "",
+      "clientDescription": "",
       "project": "Mortgage reporting business process automation",
       "projectDescription": "Implementation of secured API to provide access and manipulate data within Jbpm processes",
       "position": "Senior software engineer",
@@ -132,8 +132,8 @@
       ]
     },
     {
-      "client": "Russian Standard Insurance",
-      "clientDescription": "Russian Standard Insurance is the leading provider of voluntary life insurance for loan borrowers. The company also provides other services that compensate for the effects of adverse life circumstances",
+      "client": "",
+      "clientDescription": "",
       "project": "1C HR integration project",
       "projectDescription": "Implementation of API interface for integration JBPM Engine with 1c accounting app",
       "position": "Senior software engineer",
@@ -205,8 +205,8 @@
     {
       "client": "",
       "clientDescription": "",
-      "project": "Charity Commission",
-      "projectDescription": "Charity Commission API development for regulatory business processes support",
+      "project": "Charity commission",
+      "projectDescription": "Charity commission API development for regulatory business processes support",
       "position": "Senior software engineer",
       "startAt": "2017-01-01",
       "endAt": "2017-07-01",
