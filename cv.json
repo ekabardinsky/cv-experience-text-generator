@@ -569,9 +569,9 @@
       ]
     },
     {
-      "client": "Bank Al Etihad",
-      "clientDescription": "Provides various banking products and services to individuals, SMEs, and corporate and institutional customers in Jordan. It operates through Consumer banking, Small and Medium Enterprises, Corporate Banking, and Treasury segments. The company accepts various deposits, such as current, salary, and savings accounts. Its loan products include supply chain, sector-specific, trade, fixed assets and expansion, and working capital finance; green lending and syndicated loans; and pharmacy, startup, and collateral free loans. The company also offers credit and prepaid cards; insurance products; and money market, trading, treasury, cash management, inventory management, risk management, and online banking services. The company provides its services through its main branch in Amman and through its 44 branches in Jordan. Bank al Etihad was founded in 1978 and is headquartered in Amman, Jordan",
-      "project": "Bank Al Etihad core banking ESB",
+      "client": "",
+      "clientDescription": "",
+      "project": "Core banking ESB",
       "projectDescription": "Implementation of API for core banking system and implementation of data synchronization between various systems (such as FlexCube, Appian, Zain, CBJ systems and other).",
       "position": "Senior software engineer",
       "startAt": "2016-07-01",
@@ -593,8 +593,8 @@
       ]
     },
     {
-      "client": "Adidas",
-      "clientDescription": "Adidas AG is a multinational corporation, founded and headquartered in Herzogenaurach, Germany, that designs and manufactures shoes, clothing and accessories",
+      "client": "",
+      "clientDescription": "",
       "project": "Collibra DGC integration",
       "projectDescription": "Integration of metadata synchronization from LeanIX, Swagger Hub to Collibra DGC using Mule ESB 3.9",
       "position": "Senior software engineer",
@@ -613,8 +613,8 @@
       ]
     },
     {
-      "client": "Deutsche Bahn",
-      "clientDescription": "Deutsche Bahn AG is a German railway company. Headquartered in Berlin, it is a private joint-stock company (AG), with the Federal Republic of Germany being its single shareholder",
+      "client": "",
+      "clientDescription": "",
       "project": "Collibra DGC integration",
       "projectDescription": "Integration of metadata synchronization from Apache Hadoop to Collibra DGC using Mule ESB 3.9",
       "position": "Senior software engineer",
