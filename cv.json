@@ -631,6 +631,32 @@
       "stack": [
         "MuleSoft ESB"
       ]
+    },
+    {
+      "client": "GXB development",
+      "clientDescription": "",
+      "project": "acroplia.com",
+      "projectDescription": "Pre production optimisation and feature development for social network acroplia.com",
+      "position": "Senior software engineer",
+      "startAt": "2020-07-01",
+      "endAt": "2020-11-06",
+      "responsibilities": [
+        "API implementation",
+        "Stress tests",
+        "Optimisation"
+      ],
+      "teamSize": 5,
+      "environment": [
+        "Intellij Idea",
+        "WebStorm"
+      ],
+      "stack": [
+        "Kotlin",
+        "Spring Boot",
+        "Node",
+        "React",
+        "Redux"
+      ]
     }
   ],
   "certifications": [
